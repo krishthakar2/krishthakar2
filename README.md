@@ -9,7 +9,7 @@ I'm a second-year Computer Science student at the University of Auckland passion
 - 📘 Learning algorithms, data structures, and object-oriented programming
 
 ## Skills
-- Languages: Python (confident), SQL (basic)
+- Languages: Python (confident), SQL (basic), C++ (Learning), Java(Learning)
 - Tools: Git, VSCode, Excel, Power BI, Tableau
 - Concepts: Recursion, ADTs (lists, stacks, queues, trees), control structures, testing
 
