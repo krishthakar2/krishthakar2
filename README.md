@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Krish
 
-I'm a second-year Computer Science student at the University of Auckland passionate about building projects and solving real-world problems with code.
+I'm a third-year Computer Science student at the University of Auckland passionate about building projects and solving real-world problems with code.
 
 ## Currently Working On:
 - 🧩 Python projects like Hangman and a dynamic quiz game
